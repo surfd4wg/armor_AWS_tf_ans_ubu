@@ -20,6 +20,6 @@
       shell: mkdir -p /home/ubuntu/armor
 
     - name: install the armor agent
-      shell: sudo curl -sSL https://agent.armor.com/latest/armor_agent.sh | sudo bash /dev/stdin -l 68JYX-GB9M2-3KQQH-H3YGT-KKVY3 -r us-west-armor -f
+      shell: sudo curl -sSL https://agent.armor.com/latest/armor_agent.sh | sudo bash /dev/stdin -l AAAA1-AAAA1-AAAA1-AAAA1-AAAA1 -r us-west-armor -f
 
 ###---
